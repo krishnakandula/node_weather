@@ -14,7 +14,7 @@ A command-line weather application written in Node.
 		}
 	```
 5. Save the file
-6. Run the application through command-line:
+6. Run the application through command-line:  
 	```
 	node app-promise.js -a '<Insert address or zipcode here>'
 	```
